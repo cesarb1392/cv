@@ -1,6 +1,3 @@
-.js .reveal { opacity: 0; transform: translateY(24px); transition: opacity .65s ease, transform .65s ease; }
-.js .reveal.visible { opacity: 1; transform: none; }
-
 :root {
   --bg: #07090d;
   --bg-alt: #0b0f16;
